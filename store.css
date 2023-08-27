@@ -180,6 +180,10 @@ footer{
     width:calc(100%/3)
 }
 
+.footer-logo img{
+    width:auto;
+}
+
 .footer-list{
     width:calc(100%/3)
 }
